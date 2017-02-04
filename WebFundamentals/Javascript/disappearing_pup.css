@@ -1,0 +1,16 @@
+.pup_box{
+    width: 250px;
+    height: 300px;
+    display: inline-block;
+}
+.pup_box img{
+    width: 250px;
+    height: 300px;
+    padding: 20px 10px;
+}
+h1, h4{
+    font-family: sans-serif;
+}
+button{
+    padding: 5px;
+}

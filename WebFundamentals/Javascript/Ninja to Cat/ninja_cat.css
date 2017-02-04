@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+#wrapper{
+    width: 900px;
+    height: 600px;
+    background-color: black;
+    padding: 10px 0px 0px 10px;
+}
+img{
+    margin-bottom: 5px;
+    display: block;
+}
+h2{
+    font-family: sans-serif;
+    color: white;
+}
